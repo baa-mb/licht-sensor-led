@@ -1,5 +1,5 @@
 {
-    "name": "Licht-Sensor-LED",
+    "name": "Licht-Sensor-LED-01",
     "description": "",
     "dependencies": {
         "core": "*",
